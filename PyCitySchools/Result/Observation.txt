@@ -1,0 +1,11 @@
+ Description of observable trends based on the data 
+Observation 1: 
+Charter schools are public schools that are independent of school districts through contracts with 
+state or local boards and District schools are tied to school districts and set their curriculums
+based on state education standards From the above results, we can observe that the charter schools 
+are small in size as compare to district school. The overall performance is very high in charter schools. 
+Observation 2: 
+Schools with low budget per student performed better than the high budget per student. 
+Observation 3:
+In general, students performed better in reading than the math. The passing percentage in reading
+is high than the math percentage.
